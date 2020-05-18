@@ -20,11 +20,13 @@ Setelah mengisi form tersebut kita dapat mensubmitnya agar data dapat diinput.
 
 ![alt text](https://github.com/hisyamzf/EAS_PI_Hisyam_Zulkarnain-F_019/blob/master/img/Feedback_donasi.png)
 
-Setelah kita mensubmit nya maka kita akan mendapat feedback/notif bahwa kita telah menginputkan data donasi covid-19.  
+Setelah kita mensubmit nya maka kita akan mendapat feedback/notif bahwa kita telah menginputkan data donasi covid-19.
+`Terima kasih, Donasi anda telah berhasil dimasukkan`
+
 ![alt text](https://github.com/hisyamzf/EAS_PI_Hisyam_Zulkarnain-F_019/blob/master/img/List_Data.png)
 
 Jika kita klik `List Data` pada index.php atau pada Navigation Bar maka link akan meneruskan ke 
-`localhost:8080/integratif/public/jenis` hasil list data yang telah diinputkan sebelumnya.
+`localhost:8080/integratif/public/jenis` seperti gambar diatas.
 Gambar diatas adalah tabel hasil rekap data yang telah diinputkan.
 Terdapat kolom no, nama, jenis dan jumlah yang responsive, kita juga dapat mensortir tabel sesuai keinginan.
 
