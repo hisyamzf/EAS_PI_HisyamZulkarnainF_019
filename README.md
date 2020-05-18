@@ -15,7 +15,7 @@ sebelumnya.
 Jika kita klik button `Donasikan Sekarang` maka akan nyambung ke Form donasi seperti gambar diatas.
 Form ini berfungsi untuk orang yang ingin berdonasi covid-19 ini.
 Terdapat data nama, jenis kelamin, jenis donasi, dan jumlah donasi dalam satuan kg/pcs/liter yang harus kita isikan.
-Di sisi lain kita dapat menambah jenis donasi beserta jumlahnya sesuai yang kita inginkan.
+Di sisi lain kita dapat menambah/mengurangi jenis donasi beserta jumlahnya sesuai yang kita inginkan.
 Setelah mengisi form tersebut kita dapat mensubmitnya agar data dapat diinput.
 
 ![alt text](https://github.com/hisyamzf/EAS_PI_Hisyam_Zulkarnain-F_019/blob/master/img/Feedback_donasi.png)
